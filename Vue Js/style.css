@@ -1,0 +1,30 @@
+img{
+    border-radius: 50%;
+    border: 5px #333 solid;
+    margin-bottom: 1 rem;
+}
+
+.male{
+    border-color: steelblue;
+    background-color: steelblue;
+   
+}
+
+.female{
+    border-color: pink;
+    background-color:pink;
+    color:#333;
+}
+
+button{
+    cursor: pointer;
+    border: 5px #333 solid;
+    background-color: #333;
+    align-content: center;
+    color: white;
+}
+#app{
+   align-content: center;
+   margin-top: 10%;
+   margin-left: 40%;
+}
